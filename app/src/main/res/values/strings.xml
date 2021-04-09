@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Book Database Collection RXJava</string>
+    <string name="books">Books</string>
+</resources>
